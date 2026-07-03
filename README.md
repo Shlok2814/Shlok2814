@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ABOUT ME:
 DEVELOPER | AIML | UI/UX | DATA
 
 
